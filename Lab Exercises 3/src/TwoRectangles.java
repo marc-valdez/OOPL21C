@@ -6,7 +6,7 @@
 
 import java.util.Scanner;
 
-class TwoRectangles {
+public class TwoRectangles {
     static class Rectangle {
         double x, y;
         double width, height;

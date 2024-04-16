@@ -8,7 +8,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-class CashBack {
+public class CashBack {
     private final Map<String, Double[]> CashBackTable = new HashMap<>();
 
     CashBack() {
