@@ -1,3 +1,8 @@
+/*
+ * Author: Marc Valdez
+ * Section: C231_CS
+ */
+
 public class RockPaperScissorsLizardSpock extends RockPaperScissors {
     static String DetermineWinner(String p1, String p2) {
         if(p1.equals(p2))

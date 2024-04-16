@@ -1,3 +1,8 @@
+/*
+ * Author: Marc Valdez
+ * Section: C231_CS
+ */
+
 import java.util.Scanner;
 
 public class GiftContribution {
