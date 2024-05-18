@@ -13,8 +13,4 @@ public class Peg {
 //            }
         } while (usedColors.contains(this.color));
     }
-
-    public void printPeg(int index) {
-        System.out.print("[" + (index + 1) + "] " + this.color);
-    }
 }
