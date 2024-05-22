@@ -1,3 +1,8 @@
+/*
+ * Author: Marc Valdez
+ * Section: C231_CS
+ */
+
 public class FanClass {
     private static final byte SLOW = 1;
     private static final byte MEDIUM = 2;

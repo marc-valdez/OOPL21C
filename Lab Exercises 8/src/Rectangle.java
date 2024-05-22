@@ -1,3 +1,8 @@
+/*
+ * Author: Marc Valdez
+ * Section: C231_CS
+ */
+
 public class Rectangle {
     private final double width, height;
 

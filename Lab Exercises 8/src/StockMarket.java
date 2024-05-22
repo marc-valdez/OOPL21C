@@ -1,3 +1,8 @@
+/*
+ * Author: Marc Valdez
+ * Section: C231_CS
+ */
+
 public class StockMarket {
     private final String symbol, name;
     double previousClosingPrice, currentPrice;
